@@ -21,6 +21,13 @@ def card(it):
 mine_cards = '\n'.join(card(i) for i in items if i['mine'])
 comm_cards = '\n'.join(card(i) for i in items if not i['mine'])
 
+mine_section = f'''<section>
+<h2>⭐ 本站定制 <span class="n">壁纸移植真人物 · 剪纸白边 · 无文字</span></h2>
+<p class="desc">按官方 Base / Premium 模板逐像素校验，两种配置各取所需。</p>
+<div class="grid">{mine_cards}</div>
+</section>''' if mine_cards else ''
+mine_filter = '<button data-f="mine">本站定制</button>' if mine_cards else ''
+
 html = f'''<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -67,19 +74,15 @@ footer a{{color:var(--dim)}}
 <body>
 <header>
 <h1>🚗 特斯拉数字车衣 · 皮肤收藏馆</h1>
-<p class="sub">精选网络免费车衣皮肤 + 本站定制主题，均为 1024×1024 PNG（&lt;1MB），可直接用于特斯拉 Toybox → Paint Shop。<br>点击「下载 PNG」保存，然后按下方教程装到车上。</p>
+<p class="sub">精选网络免费车衣皮肤，均为 1024×1024 PNG（&lt;1MB），可直接用于特斯拉 Toybox → Paint Shop。<br>点击「下载 PNG」保存，然后按下方教程装到车上。</p>
 </header>
 <div class="filters" id="filters">
 <button class="on" data-f="all">全部</button>
 <button data-f="2025+">Model Y (2025+)</button>
 <button data-f="Model Y|Model Y L">老款 Model Y</button>
-<button data-f="mine">本站定制</button>
+{mine_filter}
 </div>
-<section>
-<h2>⭐ 本站定制 <span class="n">壁纸移植真人物 · 剪纸白边 · 无文字</span></h2>
-<p class="desc">按官方 Base / Premium 模板逐像素校验，两种配置各取所需。</p>
-<div class="grid">{mine_cards}</div>
-</section>
+{mine_section}
 <section>
 <h2>🌐 社区精选 <span class="n">来自 tesla-wrap.com 免费画廊</span></h2>
 <p class="desc">设计版权归原作者所有，仅供个人学习交流；点击「原作者页」查看出处。</p>
