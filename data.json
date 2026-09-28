@@ -1285,5 +1285,41 @@
   "thumb": "thumbs/SpaceX.jpg",
   "src": "https://www.tesla-wrap.com/design/5f697346-b2dc-4386-a67d-5a0e9c849a9b",
   "mine": false
+ },
+ {
+  "title": "玉桂狗",
+  "model": "Model Y (2025+) Premium",
+  "author": "mscott",
+  "file": "wraps/Cinnamonroll.png",
+  "thumb": "thumbs/Cinnamonroll.jpg",
+  "src": "https://www.tesla-wrap.com/design/5a9ccfb7-7ce4-4d77-a7a5-048dfb20b965",
+  "mine": false
+ },
+ {
+  "title": "鬼灭之刃",
+  "model": "Model Y (2025+) Premium",
+  "author": "ahping98",
+  "file": "wraps/Demon_Slayer_ah.png",
+  "thumb": "thumbs/Demon_Slayer_ah.jpg",
+  "src": "https://www.tesla-wrap.com/design/882cf94d-7a6e-4c0f-b7bf-3598ae7a5f7a",
+  "mine": false
+ },
+ {
+  "title": "香港的士",
+  "model": "Model Y (2025+) Standard",
+  "author": "lowerpricepeople",
+  "file": "wraps/HK_taxi.png",
+  "thumb": "thumbs/HK_taxi.jpg",
+  "src": "https://www.tesla-wrap.com/design/343cec0b-5875-4c35-8268-6f3c9ac17d56",
+  "mine": false
+ },
+ {
+  "title": "Star Wars",
+  "model": "Model Y (2025+) Premium",
+  "author": "dbkk83",
+  "file": "wraps/Star_Wars_db.png",
+  "thumb": "thumbs/Star_Wars_db.jpg",
+  "src": "https://www.tesla-wrap.com/design/31697ec9-3f4c-4034-90cc-c7c67de31289",
+  "mine": false
  }
 ]
