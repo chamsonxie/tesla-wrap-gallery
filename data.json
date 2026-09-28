@@ -1114,5 +1114,176 @@
   "thumb": "thumbs/Hello_Cindy.jpg",
   "src": "https://www.tesla-wrap.com/design/5bdf4373-ff83-4842-b67d-5c97f53ea04c",
   "mine": false
+ },
+ {
+  "title": "美人鱼",
+  "model": "Model Y (2025+) Premium",
+  "author": "Ferris",
+  "file": "wraps/Mermaid.png",
+  "thumb": "thumbs/Mermaid.jpg",
+  "src": "https://www.tesla-wrap.com/design/36ce996b-3bc1-405e-9f78-27c4edc042ad",
+  "mine": false
+ },
+ {
+  "title": "芭比",
+  "model": "Model Y (2025+) Premium",
+  "author": "Pierrot",
+  "file": "wraps/Barbie.png",
+  "thumb": "thumbs/Barbie.jpg",
+  "src": "https://www.tesla-wrap.com/design/6596eacf-53d1-4ea4-9f27-f03139238178",
+  "mine": false
+ },
+ {
+  "title": "妙蛙种子",
+  "model": "Model Y (2025+) Premium",
+  "author": "ryu",
+  "file": "wraps/Bulbasaur.png",
+  "thumb": "thumbs/Bulbasaur.jpg",
+  "src": "https://www.tesla-wrap.com/design/b77dfe21-5801-430e-b652-416522d5f397",
+  "mine": false
+ },
+ {
+  "title": "杰尼龟",
+  "model": "Model Y (2025+) Premium",
+  "author": "ryu",
+  "file": "wraps/Squirtle.png",
+  "thumb": "thumbs/Squirtle.jpg",
+  "src": "https://www.tesla-wrap.com/design/3f701e5a-7ac6-4cb8-8936-ae3c5ba385be",
+  "mine": false
+ },
+ {
+  "title": "小火龙",
+  "model": "Model Y (2025+) Premium",
+  "author": "ryu",
+  "file": "wraps/Charmander.png",
+  "thumb": "thumbs/Charmander.jpg",
+  "src": "https://www.tesla-wrap.com/design/37895597-f250-41ab-833d-3d0ab2780a97",
+  "mine": false
+ },
+ {
+  "title": "美国队长",
+  "model": "Model Y (2025+) Premium",
+  "author": "Pierrot",
+  "file": "wraps/Captain_America.png",
+  "thumb": "thumbs/Captain_America.jpg",
+  "src": "https://www.tesla-wrap.com/design/648e6d79-2b0b-45a1-83a9-96c29d31f353",
+  "mine": false
+ },
+ {
+  "title": "超人",
+  "model": "Model Y (2025+) Premium",
+  "author": "Pierrot",
+  "file": "wraps/Superman.png",
+  "thumb": "thumbs/Superman.jpg",
+  "src": "https://www.tesla-wrap.com/design/5eabc993-a355-47cd-a9b6-2ff346dcc5f1",
+  "mine": false
+ },
+ {
+  "title": "蝙蝠车",
+  "model": "Model Y",
+  "author": "Pierrot",
+  "file": "wraps/Batmobile.png",
+  "thumb": "thumbs/Batmobile.jpg",
+  "src": "https://www.tesla-wrap.com/design/046003d8-516e-44d9-91e1-0d865bdc2f69",
+  "mine": false
+ },
+ {
+  "title": "回到未来",
+  "model": "Model Y (2025+) Premium",
+  "author": "Pierrot",
+  "file": "wraps/Back_Future_FR.png",
+  "thumb": "thumbs/Back_Future_FR.jpg",
+  "src": "https://www.tesla-wrap.com/design/b1fe3dbb-1884-4c45-a425-ff8c77e321b2",
+  "mine": false
+ },
+ {
+  "title": "Delorean 2",
+  "model": "Model Y (2025+) Premium",
+  "author": "Pierrot",
+  "file": "wraps/Delorean_2.png",
+  "thumb": "thumbs/Delorean_2.jpg",
+  "src": "https://www.tesla-wrap.com/design/43b30ffb-c244-4906-abca-1f69166cb763",
+  "mine": false
+ },
+ {
+  "title": "任天堂",
+  "model": "Model Y (2025+) Premium",
+  "author": "Pierrot",
+  "file": "wraps/Nintendo.png",
+  "thumb": "thumbs/Nintendo.jpg",
+  "src": "https://www.tesla-wrap.com/design/1e880640-f39f-4575-ac1f-58dd463f5e9c",
+  "mine": false
+ },
+ {
+  "title": "汪汪队",
+  "model": "Model Y (2025+) Premium",
+  "author": "Pierrot",
+  "file": "wraps/Pat_Patrouille.png",
+  "thumb": "thumbs/Pat_Patrouille.jpg",
+  "src": "https://www.tesla-wrap.com/design/997409a6-532f-4ceb-be0c-e17867b0a7d8",
+  "mine": false
+ },
+ {
+  "title": "Lego 2",
+  "model": "Model Y (2025+) Premium",
+  "author": "Pierrot",
+  "file": "wraps/Lego_2.png",
+  "thumb": "thumbs/Lego_2.jpg",
+  "src": "https://www.tesla-wrap.com/design/d545e1c7-39a1-4e99-9dbc-32cba915c284",
+  "mine": false
+ },
+ {
+  "title": "Legoblocks",
+  "model": "Model Y (2025+) Premium",
+  "author": "bundles.64lynxes",
+  "file": "wraps/Legoblocks.png",
+  "thumb": "thumbs/Legoblocks.jpg",
+  "src": "https://www.tesla-wrap.com/design/930fad58-23a6-4770-a719-4ef661a05f5d",
+  "mine": false
+ },
+ {
+  "title": "Lightning McQueen",
+  "model": "Model Y (2025+) Premium",
+  "author": "bobmazy10",
+  "file": "wraps/Lightning_McQueen_3.png",
+  "thumb": "thumbs/Lightning_McQueen_3.jpg",
+  "src": "https://www.tesla-wrap.com/design/0c1f0f87-d5f9-4ab6-8134-4a8c5cab30af",
+  "mine": false
+ },
+ {
+  "title": "Nutella",
+  "model": "Model Y (2025+) Premium",
+  "author": "Pierrot",
+  "file": "wraps/Nutella.png",
+  "thumb": "thumbs/Nutella.jpg",
+  "src": "https://www.tesla-wrap.com/design/a117134d-8c04-4dcb-ad3f-8e50294736c5",
+  "mine": false
+ },
+ {
+  "title": "Pokemon",
+  "model": "Model Y (2025+) Premium",
+  "author": "Pierrot",
+  "file": "wraps/Pokemon_Pierrot.png",
+  "thumb": "thumbs/Pokemon_Pierrot.jpg",
+  "src": "https://www.tesla-wrap.com/design/7718fffe-530d-40b2-9853-2f7cf93936fa",
+  "mine": false
+ },
+ {
+  "title": "Nasa",
+  "model": "Model Y (2025+) Premium",
+  "author": "Pierrot",
+  "file": "wraps/Nasa.png",
+  "thumb": "thumbs/Nasa.jpg",
+  "src": "https://www.tesla-wrap.com/design/46f3627d-e9d9-487f-b007-881d870fbdb9",
+  "mine": false
+ },
+ {
+  "title": "Space X",
+  "model": "Model Y (2025+) Premium",
+  "author": "Pierrot",
+  "file": "wraps/SpaceX.png",
+  "thumb": "thumbs/SpaceX.jpg",
+  "src": "https://www.tesla-wrap.com/design/5f697346-b2dc-4386-a67d-5a0e9c849a9b",
+  "mine": false
  }
 ]
