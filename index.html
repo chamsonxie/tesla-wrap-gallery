@@ -48,8 +48,8 @@ footer a{color:var(--dim)}
 </header>
 <div class="filters" id="filters">
 <button class="on" data-f="all">全部</button>
-<button data-f="2025+">Model Y (2025+)</button>
-<button data-f="Model Y|Model Y L">老款 Model Y</button>
+<button data-f="new">Model Y (2025+)</button>
+<button data-f="old">老款 Model Y</button>
 
 </div>
 
@@ -112,11 +112,11 @@ footer a{color:var(--dim)}
     <div class="row"><a class="dl" href="wraps/Kuromi.png" download>下载 PNG</a><a class="src" href="https://www.tesla-wrap.com/design/a6c8c728-c327-4b18-8aaf-f5ca016ef973" target="_blank" rel="noopener">原作者页 ↗</a></div>
   </div>
 </div>
-<div class="card" data-model="Model 3 / Y / S" data-mine="0">
+<div class="card" data-model="Model Y / 3 / S 多车型" data-mine="0">
   <img loading="lazy" src="thumbs/sailor_moon.jpg" alt="sailor moon">
   <div class="info">
     <div class="title">sailor moon</div>
-    <div class="meta"><span class="badge">Model 3 / Y / S</span><span class="author">jasonasey</span></div>
+    <div class="meta"><span class="badge">Model Y / 3 / S 多车型</span><span class="author">jasonasey</span></div>
     <div class="row"><a class="dl" href="wraps/sailor_moon.png" download>下载 PNG</a><a class="src" href="https://www.tesla-wrap.com/design/1d670589-2864-4395-b3e1-63541512e2b1" target="_blank" rel="noopener">原作者页 ↗</a></div>
   </div>
 </div>
@@ -330,14 +330,18 @@ footer a{color:var(--dim)}
 <script>
 const btns=[...document.querySelectorAll('#filters button')];
 const cards=[...document.querySelectorAll('.card')];
+function matchFilter(f,m){
+  if(f==='all')return true;
+  if(f==='mine')return false;
+  if(f==='new')return m.indexOf('2025+')!==-1;
+  if(f==='old')return m.indexOf('Model Y')!==-1&&m.indexOf('2025+')===-1;
+  return true;
+}
 btns.forEach(b=>b.addEventListener('click',()=>{
   btns.forEach(x=>x.classList.remove('on'));b.classList.add('on');
   const f=b.dataset.f;
   cards.forEach(c=>{
-    let show=true;
-    if(f==='all')show=true;
-    else if(f==='mine')show=c.dataset.mine==='1';
-    else show=new RegExp(f).test(c.dataset.model);
+    const show = f==='mine' ? c.dataset.mine==='1' : matchFilter(f,c.dataset.model);
     c.classList.toggle('hide',!show);
   });
 }));

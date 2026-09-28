@@ -78,8 +78,8 @@ footer a{{color:var(--dim)}}
 </header>
 <div class="filters" id="filters">
 <button class="on" data-f="all">全部</button>
-<button data-f="2025+">Model Y (2025+)</button>
-<button data-f="Model Y|Model Y L">老款 Model Y</button>
+<button data-f="new">Model Y (2025+)</button>
+<button data-f="old">老款 Model Y</button>
 {mine_filter}
 </div>
 {mine_section}
@@ -105,14 +105,18 @@ footer a{{color:var(--dim)}}
 <script>
 const btns=[...document.querySelectorAll('#filters button')];
 const cards=[...document.querySelectorAll('.card')];
+function matchFilter(f,m){{
+  if(f==='all')return true;
+  if(f==='mine')return false;
+  if(f==='new')return m.indexOf('2025+')!==-1;
+  if(f==='old')return m.indexOf('Model Y')!==-1&&m.indexOf('2025+')===-1;
+  return true;
+}}
 btns.forEach(b=>b.addEventListener('click',()=>{{
   btns.forEach(x=>x.classList.remove('on'));b.classList.add('on');
   const f=b.dataset.f;
   cards.forEach(c=>{{
-    let show=true;
-    if(f==='all')show=true;
-    else if(f==='mine')show=c.dataset.mine==='1';
-    else show=new RegExp(f).test(c.dataset.model);
+    const show = f==='mine' ? c.dataset.mine==='1' : matchFilter(f,c.dataset.model);
     c.classList.toggle('hide',!show);
   }});
 }}));
