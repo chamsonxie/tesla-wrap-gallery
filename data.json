@@ -448,5 +448,275 @@
   "thumb": "thumbs/Pokemon_classic.jpg",
   "src": "https://www.tesla-wrap.com/design/bf93f823-69fb-48db-817e-5b998dc8b1bd",
   "mine": false
+ },
+ {
+  "title": "皮卡丘",
+  "model": "Model Y (2025+) Premium",
+  "author": "Issam",
+  "file": "wraps/Picachu.png",
+  "thumb": "thumbs/Picachu.jpg",
+  "src": "https://www.tesla-wrap.com/design/5c34f0b0-1600-4f67-a8b9-9b1718c7c3f8",
+  "mine": false
+ },
+ {
+  "title": "死侍",
+  "model": "Model Y (2025+) Premium",
+  "author": "mharris281",
+  "file": "wraps/Deadpool.png",
+  "thumb": "thumbs/Deadpool.jpg",
+  "src": "https://www.tesla-wrap.com/design/e98ff4ba-609f-411a-af64-1fa1fecc34b3",
+  "mine": false
+ },
+ {
+  "title": "Cars2",
+  "model": "Model Y (2025+) Standard",
+  "author": "Gregaf",
+  "file": "wraps/Cars2.png",
+  "thumb": "thumbs/Cars2.jpg",
+  "src": "https://www.tesla-wrap.com/design/6aec77cd-10ec-4390-9ac1-ef3d82022b08",
+  "mine": false
+ },
+ {
+  "title": "蜡笔小新",
+  "model": "Model Y (2025+) Premium",
+  "author": "xbldavid",
+  "file": "wraps/Shinchan_xbl.png",
+  "thumb": "thumbs/Shinchan_xbl.jpg",
+  "src": "https://www.tesla-wrap.com/design/fc3e23c5-7cd8-4844-bd34-2e18ffc4ef23",
+  "mine": false
+ },
+ {
+  "title": "Mario Kart 3",
+  "model": "Model Y (2025+) Standard",
+  "author": "Markus1986",
+  "file": "wraps/Mario_Kart_3.png",
+  "thumb": "thumbs/Mario_Kart_3.jpg",
+  "src": "https://www.tesla-wrap.com/design/232fd785-8c67-41f8-ae91-1a2ee6ff1c60",
+  "mine": false
+ },
+ {
+  "title": "爱心熊",
+  "model": "Model Y (2025+) Premium",
+  "author": "kchsu",
+  "file": "wraps/Care_Bears.png",
+  "thumb": "thumbs/Care_Bears.jpg",
+  "src": "https://www.tesla-wrap.com/design/a89f7e8b-8197-4eb1-9620-984e19f284f4",
+  "mine": false
+ },
+ {
+  "title": "路易吉",
+  "model": "Model Y (2025+) Premium",
+  "author": "Dome",
+  "file": "wraps/Luigi.png",
+  "thumb": "thumbs/Luigi.jpg",
+  "src": "https://www.tesla-wrap.com/design/0de6b046-77d7-4193-884e-209e1a7380de",
+  "mine": false
+ },
+ {
+  "title": "史努比",
+  "model": "Model Y (2025+) Premium",
+  "author": "antony",
+  "file": "wraps/Snoopy_antony.png",
+  "thumb": "thumbs/Snoopy_antony.jpg",
+  "src": "https://www.tesla-wrap.com/design/27682b19-b2ea-4fce-a7d1-b2e8f315a03d",
+  "mine": false
+ },
+ {
+  "title": "AE86",
+  "model": "Model Y (2025+) Premium",
+  "author": "jowooky",
+  "file": "wraps/AE86_2025.png",
+  "thumb": "thumbs/AE86_2025.jpg",
+  "src": "https://www.tesla-wrap.com/design/699bd3e5-87c8-4370-baa9-4ca2bea95ac3",
+  "mine": false
+ },
+ {
+  "title": "小熊软糖",
+  "model": "Model Y (2025+) Premium",
+  "author": "charlieflint",
+  "file": "wraps/Haribo.png",
+  "thumb": "thumbs/Haribo.jpg",
+  "src": "https://www.tesla-wrap.com/design/501787e4-5f26-49da-b036-57e69be86178",
+  "mine": false
+ },
+ {
+  "title": "Appa",
+  "model": "Model Y (2025+) Premium",
+  "author": "jose5879",
+  "file": "wraps/Appa.png",
+  "thumb": "thumbs/Appa.jpg",
+  "src": "https://www.tesla-wrap.com/design/deb73caa-34de-4071-889f-2e89594c2f8b",
+  "mine": false
+ },
+ {
+  "title": "小狗",
+  "model": "Model Y (2025+) Premium",
+  "author": "driver2857",
+  "file": "wraps/Puppy_KR.png",
+  "thumb": "thumbs/Puppy_KR.jpg",
+  "src": "https://www.tesla-wrap.com/design/6c8e0146-a520-45f0-8b37-7e0210f30a77",
+  "mine": false
+ },
+ {
+  "title": "捉鬼敢死队",
+  "model": "Model Y (2025+) Premium",
+  "author": "Mirmo",
+  "file": "wraps/Ghostbusters.png",
+  "thumb": "thumbs/Ghostbusters.jpg",
+  "src": "https://www.tesla-wrap.com/design/3b655053-1e05-47a1-98bf-a1bb9223c584",
+  "mine": false
+ },
+ {
+  "title": "耿鬼",
+  "model": "Model Y (2025+) Premium",
+  "author": "rocky3091",
+  "file": "wraps/Gengar_rocky.png",
+  "thumb": "thumbs/Gengar_rocky.jpg",
+  "src": "https://www.tesla-wrap.com/design/ef43c7e3-64bb-4505-af8e-03bc7762bf66",
+  "mine": false
+ },
+ {
+  "title": "维尼",
+  "model": "Model Y (2025+) Premium",
+  "author": "m.fertein",
+  "file": "wraps/Winnie_Pooh.png",
+  "thumb": "thumbs/Winnie_Pooh.jpg",
+  "src": "https://www.tesla-wrap.com/design/e6c27431-ac40-49ce-b549-f7e827d3077c",
+  "mine": false
+ },
+ {
+  "title": "Mario Kart 2",
+  "model": "Model Y (2025+) Standard",
+  "author": "Markus1986",
+  "file": "wraps/Mario_Kart_2.png",
+  "thumb": "thumbs/Mario_Kart_2.jpg",
+  "src": "https://www.tesla-wrap.com/design/92831102-2982-4a73-a3d8-16e0ee359ea5",
+  "mine": false
+ },
+ {
+  "title": "bubududu",
+  "model": "Model Y (2025+) Premium",
+  "author": "steve tran",
+  "file": "wraps/bubududu.png",
+  "thumb": "thumbs/bubududu.jpg",
+  "src": "https://www.tesla-wrap.com/design/17c41e3f-a780-435a-aeff-c41fe402f249",
+  "mine": false
+ },
+ {
+  "title": "飞天小女警",
+  "model": "Model Y (2025+) Premium",
+  "author": "ngomez",
+  "file": "wraps/Powerpuff.png",
+  "thumb": "thumbs/Powerpuff.jpg",
+  "src": "https://www.tesla-wrap.com/design/8e68d4f8-2ff7-4f74-b9d2-1a35021c19bc",
+  "mine": false
+ },
+ {
+  "title": "卡比",
+  "model": "Model Y (2025+) Premium",
+  "author": "exchangelee",
+  "file": "wraps/Kirby_30th.png",
+  "thumb": "thumbs/Kirby_30th.jpg",
+  "src": "https://www.tesla-wrap.com/design/001345f1-f00e-41d7-bb70-709c482d0369",
+  "mine": false
+ },
+ {
+  "title": "卡比",
+  "model": "Model Y (2025+) Premium",
+  "author": "glamorade",
+  "file": "wraps/Kirby_glam.png",
+  "thumb": "thumbs/Kirby_glam.jpg",
+  "src": "https://www.tesla-wrap.com/design/5d3cd910-8c22-409d-bdd5-a646892c5910",
+  "mine": false
+ },
+ {
+  "title": "米菲",
+  "model": "Model Y",
+  "author": "akryis",
+  "file": "wraps/Miffy.png",
+  "thumb": "thumbs/Miffy.jpg",
+  "src": "https://www.tesla-wrap.com/design/9317d827-9d0d-42e6-9f50-19ae117af4af",
+  "mine": false
+ },
+ {
+  "title": "LABUBU",
+  "model": "Model Y (2025+) Standard",
+  "author": "JeffR22",
+  "file": "wraps/LABUBU_Jeff.png",
+  "thumb": "thumbs/LABUBU_Jeff.jpg",
+  "src": "https://www.tesla-wrap.com/design/76f873f4-45be-4032-80b9-6da9a3162ad8",
+  "mine": false
+ },
+ {
+  "title": "NERV tactical Eva 1st",
+  "model": "Model Y (2025+) Premium",
+  "author": "driver7304",
+  "file": "wraps/NERV_EVA.png",
+  "thumb": "thumbs/NERV_EVA.jpg",
+  "src": "https://www.tesla-wrap.com/design/8a365b21-c733-4516-bce9-0335e29d37d6",
+  "mine": false
+ },
+ {
+  "title": "排球少年",
+  "model": "Model Y (2025+) Premium",
+  "author": "heewon7397",
+  "file": "wraps/haikyu.png",
+  "thumb": "thumbs/haikyu.jpg",
+  "src": "https://www.tesla-wrap.com/design/f632bba4-8bbb-47db-8664-d57d22b79959",
+  "mine": false
+ },
+ {
+  "title": "暴鲤龙",
+  "model": "Model Y (2025+) Premium",
+  "author": "driver4413",
+  "file": "wraps/Gyarados2.png",
+  "thumb": "thumbs/Gyarados2.jpg",
+  "src": "https://www.tesla-wrap.com/design/4c20a9ee-0d1e-40a0-9871-6b8078e28b8c",
+  "mine": false
+ },
+ {
+  "title": "漫威",
+  "model": "Model Y (2025+) Premium",
+  "author": "extra",
+  "file": "wraps/Marvel_extra.png",
+  "thumb": "thumbs/Marvel_extra.jpg",
+  "src": "https://www.tesla-wrap.com/design/64da7aed-d6a9-4734-99ca-9bd2f91237d5",
+  "mine": false
+ },
+ {
+  "title": "美少女战士",
+  "model": "Model Y (2025+) Standard",
+  "author": "Sailormoon",
+  "file": "wraps/Sailormoon_2025.png",
+  "thumb": "thumbs/Sailormoon_2025.jpg",
+  "src": "https://www.tesla-wrap.com/design/8fb7e642-8651-4f82-b804-a45ee26ba74f",
+  "mine": false
+ },
+ {
+  "title": "耿鬼",
+  "model": "Model Y (2025+) Premium",
+  "author": "Garyunderwood86",
+  "file": "wraps/Gengar_Gary.png",
+  "thumb": "thumbs/Gengar_Gary.jpg",
+  "src": "https://www.tesla-wrap.com/design/b2a310fa-2f24-486a-b0f4-cc7032de7de2",
+  "mine": false
+ },
+ {
+  "title": "悟空",
+  "model": "Model Y (2025+) Premium",
+  "author": "alicenir",
+  "file": "wraps/Goku_DBZ.png",
+  "thumb": "thumbs/Goku_DBZ.jpg",
+  "src": "https://www.tesla-wrap.com/design/41b62c9e-d54c-4724-86d9-b3eb800d6630",
+  "mine": false
+ },
+ {
+  "title": "Halloween 2",
+  "model": "Model Y (2025+) Premium",
+  "author": "CSivret",
+  "file": "wraps/Halloween_2.png",
+  "thumb": "thumbs/Halloween_2.jpg",
+  "src": "https://www.tesla-wrap.com/design/e12627d1-9667-46fd-bd49-9b65e5804e2c",
+  "mine": false
  }
 ]
