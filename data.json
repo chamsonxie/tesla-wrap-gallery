@@ -286,5 +286,167 @@
   "thumb": "thumbs/Buzz_Lightyear.jpg",
   "src": "https://www.tesla-wrap.com/design/81e5af82-e3d2-4cbf-817d-e71c27ebb86a",
   "mine": false
+ },
+ {
+  "title": "Bluey",
+  "model": "Model Y (2025+) Standard",
+  "author": "Kanima",
+  "file": "wraps/Bluey_2025.png",
+  "thumb": "thumbs/Bluey_2025.jpg",
+  "src": "https://www.tesla-wrap.com/design/1b697047-2faf-46e3-ba09-c70badf8dac1",
+  "mine": false
+ },
+ {
+  "title": "zootopia",
+  "model": "Model Y (2025+) Standard",
+  "author": "jiaziwei233",
+  "file": "wraps/zootopia.png",
+  "thumb": "thumbs/zootopia.jpg",
+  "src": "https://www.tesla-wrap.com/design/805def91-17cc-44f6-8796-179dfd4c3ba6",
+  "mine": false
+ },
+ {
+  "title": "Batman",
+  "model": "Model Y (2025+) Standard",
+  "author": "Eran habaka",
+  "file": "wraps/Batman_2025.png",
+  "thumb": "thumbs/Batman_2025.jpg",
+  "src": "https://www.tesla-wrap.com/design/2b5be350-25b6-4e46-8250-4f8c8f9954c8",
+  "mine": false
+ },
+ {
+  "title": "海绵宝宝",
+  "model": "Model Y (2025+) Premium",
+  "author": "Leone",
+  "file": "wraps/Bob_eponge.png",
+  "thumb": "thumbs/Bob_eponge.jpg",
+  "src": "https://www.tesla-wrap.com/design/6df49742-c5ca-4765-977e-d3a5e45c41e4",
+  "mine": false
+ },
+ {
+  "title": "祢豆子",
+  "model": "Model Y (2025+) Premium",
+  "author": "Dome",
+  "file": "wraps/Kamado_Nezuko.png",
+  "thumb": "thumbs/Kamado_Nezuko.jpg",
+  "src": "https://www.tesla-wrap.com/design/92c0fe54-a1c0-418f-9273-f30516b2a9ec",
+  "mine": false
+ },
+ {
+  "title": "Pokemon",
+  "model": "Model Y (2025+) Standard",
+  "author": "SteveJustice",
+  "file": "wraps/Pokemon_2025.png",
+  "thumb": "thumbs/Pokemon_2025.jpg",
+  "src": "https://www.tesla-wrap.com/design/148e4d7f-88d0-4471-96e1-9fe541fe1b93",
+  "mine": false
+ },
+ {
+  "title": "Lego Bricks",
+  "model": "Model Y (2025+) Standard",
+  "author": "Winger15mk",
+  "file": "wraps/Lego_Bricks.png",
+  "thumb": "thumbs/Lego_Bricks.jpg",
+  "src": "https://www.tesla-wrap.com/design/86d93c7e-ec51-4715-bff4-1fa4ff74fac4",
+  "mine": false
+ },
+ {
+  "title": "Labubu Chance",
+  "model": "Model Y (2025+) Standard",
+  "author": "JeffR22",
+  "file": "wraps/Labubu_Chance.png",
+  "thumb": "thumbs/Labubu_Chance.jpg",
+  "src": "https://www.tesla-wrap.com/design/2d9113e3-52c3-45be-b427-5671df536a4f",
+  "mine": false
+ },
+ {
+  "title": "头文字D",
+  "model": "Model Y (2025+) Premium",
+  "author": "driver2857",
+  "file": "wraps/Initial_D.png",
+  "thumb": "thumbs/Initial_D.jpg",
+  "src": "https://www.tesla-wrap.com/design/ca2d0e9d-bcac-412e-b540-fad0f0ace50d",
+  "mine": false
+ },
+ {
+  "title": "Halloween",
+  "model": "Model Y (2025+) Standard",
+  "author": "Luispena83",
+  "file": "wraps/Halloween_2025.png",
+  "thumb": "thumbs/Halloween_2025.jpg",
+  "src": "https://www.tesla-wrap.com/design/f541f136-80b4-42b2-9b6b-209443413661",
+  "mine": false
+ },
+ {
+  "title": "Tardis",
+  "model": "Model Y (2025+) Premium",
+  "author": "bernardtesla",
+  "file": "wraps/Tardis.png",
+  "thumb": "thumbs/Tardis.jpg",
+  "src": "https://www.tesla-wrap.com/design/e2252e01-a80f-431d-bada-f9ac2e12a89e",
+  "mine": false
+ },
+ {
+  "title": "米奇",
+  "model": "Model Y",
+  "author": "driver6291",
+  "file": "wraps/Mickey.png",
+  "thumb": "thumbs/Mickey.jpg",
+  "src": "https://www.tesla-wrap.com/design/8749f2ea-8efa-49a8-a8e3-055183c42c87",
+  "mine": false
+ },
+ {
+  "title": "麦当劳",
+  "model": "Model Y",
+  "author": "brunk94",
+  "file": "wraps/McDonalds_fun.png",
+  "thumb": "thumbs/McDonalds_fun.jpg",
+  "src": "https://www.tesla-wrap.com/design/d72ec9dd-3c3e-4b4c-b174-41f27e0e5c8f",
+  "mine": false
+ },
+ {
+  "title": "大黄蜂",
+  "model": "Model Y",
+  "author": "Ho0443",
+  "file": "wraps/Bumblebee.png",
+  "thumb": "thumbs/Bumblebee.jpg",
+  "src": "https://www.tesla-wrap.com/design/b52392b9-4874-42e0-a664-2d4e67c03daa",
+  "mine": false
+ },
+ {
+  "title": "Bluey",
+  "model": "Model Y",
+  "author": "Recon7239",
+  "file": "wraps/Bluey_classic.png",
+  "thumb": "thumbs/Bluey_classic.jpg",
+  "src": "https://www.tesla-wrap.com/design/dca33d2d-e779-4a10-b5ac-9165688b2e8c",
+  "mine": false
+ },
+ {
+  "title": "kuromi",
+  "model": "Model Y L",
+  "author": "angeline6849",
+  "file": "wraps/kuromi_L.png",
+  "thumb": "thumbs/kuromi_L.jpg",
+  "src": "https://www.tesla-wrap.com/design/da0f1d11-ad70-4d27-8d89-a3c79498ab0a",
+  "mine": false
+ },
+ {
+  "title": "蜘蛛侠",
+  "model": "Model Y L",
+  "author": "driver4137",
+  "file": "wraps/Spider_KR.png",
+  "thumb": "thumbs/Spider_KR.jpg",
+  "src": "https://www.tesla-wrap.com/design/94d9d5be-2497-4256-bb81-2e94430f6b57",
+  "mine": false
+ },
+ {
+  "title": "Pokemon",
+  "model": "Model Y",
+  "author": "Mathieu202a",
+  "file": "wraps/Pokemon_classic.png",
+  "thumb": "thumbs/Pokemon_classic.jpg",
+  "src": "https://www.tesla-wrap.com/design/bf93f823-69fb-48db-817e-5b998dc8b1bd",
+  "mine": false
  }
 ]
